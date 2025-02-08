@@ -1,0 +1,246 @@
+body{background-image: url(io5.jpg);
+    background-position: center center;
+    background-repeat no-repeat;
+    background-size: cover;
+    background-attachment:  fixed;
+
+
+}
+
+
+
+
+
+
+.inicio{color: violet;
+    position: relative;
+    positi;
+    font-family: fantasy;
+    color: rgb(7, 7, 7);
+    position: relative;
+    text-align:center ;
+
+ 
+}
+.poema{
+    position: relative;
+    text-align:center ;
+    color: rgb(61, 1, 1);
+    
+
+
+}
+.poema2{ 
+    font-size: xx-small;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    text-align:center ;
+    color: rgb(0, 0, 0);
+
+}
+.zack{
+    width: 100px;
+    position: absolute;
+    top: 20px;
+    left: 100px;
+
+}
+
+.boleto7{
+    width: 50px;
+    position: absolute;
+    top: 1600px;
+    left: 350px;
+
+   
+}
+.alex{
+    width: 100px;
+    position: absolute;
+    top: 50px;
+    left: 850px;
+
+}
+
+.io1{ width: 150px;
+    position: absolute;
+    top: 150px;
+    left: 50px;}
+
+.io2{width: 150px;
+    position: absolute;
+    top: 150px;
+    left: 950px;
+
+}    
+.io3{width: 150px;
+    position: absolute;
+    top: 500px;
+    left: 10px;
+
+}
+.io4{width: 175px;
+    position: absolute;
+    top: 700px;
+    left: 20px;
+
+}
+
+
+
+.io6{width: 150px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+}
+.io9{width: 150px;
+    position: absolute;
+    top: 20px;
+    left: 1000px;
+
+}
+.io10{width: 150px;
+    position: absolute;
+    top: 500px;
+    left: 1000px;
+
+
+
+}
+.io11{width: 150px;
+    position: absolute;
+    top: 850px;
+    left: 1000px;
+
+
+}
+.io12{width: 150px;
+    position: absolute;
+    top: 950px;
+    left: 100px;
+
+
+}
+.io13{width: 150px;
+    position: absolute;
+    top: 350px;
+    left: 30px;
+
+
+}
+.io14{width: 150px;
+    position: absolute;
+    top: 20px;
+    left: 0px;
+
+
+}
+.io15{width: 150px;
+    position: absolute;
+    top: 20px;
+    left: 0px;
+}
+.abrazo{width: 150px;
+    position: absolute;
+    top: 1400px;
+    left: 250px;
+
+}
+.boleto1{width: 150px;
+    position: absolute;
+    top: 1200px;
+    left: 950px;
+
+}
+.boleto2{width: 150px;
+    position: absolute;
+    top: 1200px;
+    left: 100px;
+
+
+}
+.boleto3{  width: 150px;
+    position: absolute;
+    top: 1200px;
+    left: 500px;
+    
+
+}
+.boleto4{width: 150px;
+    position: absolute;
+    top: 1500px;
+    left: 500px;
+
+}
+.boleto5{width: 150px;
+    position: absolute;
+    top: 1500px;
+    left: 100px;
+
+}
+.boleto6{width: 150px;
+    position: absolute;
+    top: 1500px;
+    left: 950px;
+
+}
+.oculto{ color: blueviolet;
+    text-decoration: line-through;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: xx-small  ;
+
+
+}
+
+
+
+
+.kiotto{ 
+    width: 150px;
+    position: absolute;
+    top: 0px;
+    left: 450px;
+
+    
+
+    
+}
+.susuka{width: 150px;
+    position: absolute;
+    top: 1900px;
+    left: 500px;
+
+}
+.gracias{ 
+    top: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;  
+    text-align: center;
+    position: relative;
+    
+    color: black; 
+
+}
+.amo{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 1000px;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    text-align: center;
+    
+
+}
+.letra{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center ;
+    position: relative;
+    top: 1000px;
+    color: rgb(0, 0, 0);
+    
+
+
+}
+
+
