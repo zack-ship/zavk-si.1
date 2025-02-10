@@ -194,7 +194,7 @@ body{background-image: url(io5.jpg);
     left: 950px;
 
 }
-.oculto{ color: blueviolet;
+.oculto{ color: rgb(255, 8, 8) ;
     text-decoration: line-through;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: xx-small  ;
@@ -224,8 +224,8 @@ body{background-image: url(io5.jpg);
 .gracias{ 
 font-size: 15px;
      position: relative;
-    top: 400px;
-     left: 200px;
+    top: 200px;
+     left: 175px;
      
     font-family: Arial, Helvetica, sans-serif;
      align-items: center;
