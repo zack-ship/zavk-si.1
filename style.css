@@ -224,10 +224,14 @@ body{background-image: url(io5.jpg);
 .gracias{ 
     top: 150px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: larger;  
-    text-align: center;
+     align-items: center;
+    justify-content: center:
+    text-align:center: 
+  
     position: relative;
- color: rgb(201, 71, 201); 
+  color: rgb(201, 71, 201); 
+   left: 50px;
+     font-size: 15px; 
 
 }
 .amo{
