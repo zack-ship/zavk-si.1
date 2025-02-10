@@ -39,9 +39,9 @@ body{background-image: url(io5.jpg);
      font-size: 4px; 
     position: relative;
     left: 50px;
-    top:200px;
+    top:160px;
     font-family: fantasy;
-    color: rgb(94, 24, 24);
+    color: rgb(0, 0, 0);
     text-align:center;
      align-items: center;
       justify-content: center;
@@ -71,18 +71,18 @@ body{background-image: url(io5.jpg);
 
 }
 
-.io1{ width: 150px;
+.io1{ width: 125px;
     position: absolute;
     top: 150px;
     left: 50px;}
 
-.io2{width: 150px;
+.io2{width: 120px;
     position: absolute;
     top: 150px;
     left: 950px;
 
 }    
-.io3{width: 150px;
+.io3{width: 120px;
     position: absolute;
     top: 500px;
     left: 10px;
@@ -97,19 +97,19 @@ body{background-image: url(io5.jpg);
 
 
 
-.io6{width: 150px;
+.io6{width: 120px;
     position: absolute;
     top: 10px;
     left: 10px;
 
 }
-.io9{width: 150px;
+.io9{width: 120px;
     position: absolute;
     top: 20px;
     left: 1000px;
 
 }
-.io10{width: 150px;
+.io10{width: 120px;
     position: absolute;
     top: 500px;
     left: 1000px;
@@ -117,40 +117,40 @@ body{background-image: url(io5.jpg);
 
 
 }
-.io11{width: 150px;
+.io11{width: 120px;
     position: absolute;
     top: 850px;
     left: 1000px;
 
 
 }
-.io12{width: 150px;
+.io12{width: 120px;
     position: absolute;
     top: 950px;
     left: 100px;
 
 
 }
-.io13{width: 150px;
+.io13{width: 120px;
     position: absolute;
     top: 350px;
     left: 30px;
 
 
 }
-.io14{width: 150px;
+.io14{width: 120px;
     position: absolute;
     top: 20px;
     left: 0px;
 
 
 }
-.io15{width: 150px;
+.io15{width: 120px;
     position: absolute;
     top: 20px;
     left: 0px;
 }
-.abrazo{width: 150px;
+.abrazo{width: 175px;
     position: absolute;
     top: 1400px;
     left: 250px;
@@ -227,8 +227,7 @@ body{background-image: url(io5.jpg);
     font-size: larger;  
     text-align: center;
     position: relative;
-    
-    color: black; 
+ color: rgb(201, 71, 201); 
 
 }
 .amo{
@@ -236,9 +235,10 @@ body{background-image: url(io5.jpg);
     font-family: Arial, Helvetica, sans-serif;
     top: 1000px;
     color: rgb(0, 0, 0);
-    font-size: large;
-    text-align: center;
-    
+     text-align: center;
+      left: 50px;
+     font-size: 15px; 
+    justify-content: center; 
 
 }
 .letra{align-items: center;
@@ -248,6 +248,8 @@ body{background-image: url(io5.jpg);
     position: relative;
     top: 1000px;
     color: rgb(255, 255, 255);
+     left: 50px;
+     font-size: 7px; 
     
 
 
